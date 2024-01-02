@@ -1,3 +1,4 @@
+# this script is used to load test a defined API link with locust
 from locust import HttpUser, task, between
 
 
