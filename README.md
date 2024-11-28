@@ -8,3 +8,6 @@ Script reads a txt file that was converted by OCR (https://www.ocr2edit.com) and
 
 #### 3. loadtest.py
 Script utilises locust tool (https://locust.io/) to call API based on defined parameters. For load testing.
+
+#### 4. split_merge.py
+Script takes in 2 pdf files, and produces 1 pdf file that has pages merged from the 2 pdf files. For splitting and merging pdf.
